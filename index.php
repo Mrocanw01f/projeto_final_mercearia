@@ -11,6 +11,7 @@
 <body>
     <fieldset>
         <h2>Login</h2>
+        <form action="calculadora.php" method= "post">
             <div class="campo">
                 <label>Usuário</label>
                 <br>  
