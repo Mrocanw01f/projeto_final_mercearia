@@ -36,6 +36,8 @@
         echo "nome: ".$nome;
         echo "                               email: ".$email;
         echo "                               senha: ".$senha;
+        header("Location: calculadora.php");
+        echo "Acesso concedido!";
     }
     ?>
     </textarea>
