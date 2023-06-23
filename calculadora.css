@@ -1,0 +1,110 @@
+    
+button:hover {
+    color: rgb(158, 104, 234);
+    text-decoration: none;
+  }
+  
+
+    button:active {
+    color: rgb(199, 121, 61);
+    text-decoration: none;
+  }
+
+
+body {
+background-color: #b68b56;
+}
+
+h2{
+font-family: Inknut Antiqua; font-size: 22px;
+}
+
+.fatores {
+width: 200px;
+height: 25px;
+left: 175px;
+top: 325px;
+border-radius: 20px;
+box-shadow: inset rgb(152, 99, 66) 2px 2px 1px;
+
+}
+
+figure {
+text-align: right;
+height: 0px;
+left: 4px;
+}
+
+input[type='number'] {
+width: 450px;
+height: 40px;
+}
+
+p { 
+  padding-left: 100px; 
+}
+
+.sobre{
+padding: 10px;
+color: rgb(0, 0, 0);
+background-color: #7e613f;
+border-radius: 5px;
+border: 2px solid #5e462c;
+width: 100px;
+height: 30px;
+}
+
+a:hover {
+color: rgb(158, 104, 234);
+text-decoration: none;
+}
+
+fieldset{
+width: 25%;
+left: 50%;
+border-color: #a48259;
+background-color:#a48259; 
+}
+
+img {
+border-radius: 35%;
+}
+
+.envio {
+color: rgb(0, 0, 0);
+background-color: #70593F;
+border-radius: 5px;
+border: 2px solid #4b3b1e;
+width: 100px;
+height: 30px;
+}
+
+id{
+    padding: 10px;
+    color: rgb(0, 0, 0);
+    background-color: #69543b;
+    border-radius: 5px;
+    border: 2px solid #44351a;
+    width: 100px;
+    height: 30px;
+}
+
+.exit {
+    text-align: right;
+}
+
+.botao {
+  border-radius: 5px;
+  background-color: #9a764a;
+  box-shadow: inset 1px 1px 1px;
+}
+
+#texto{
+width: 200px;
+height: 25px;
+left: 175px;
+top: 325px;
+border-radius: 500px;
+box-shadow: inset rgb(152, 99, 66) 2px 2px 1px;
+
+}

@@ -1,0 +1,50 @@
+.campo {
+    text-align: left;
+}
+
+
+
+
+fieldset {
+    border-color: #957651;
+    width: 30%;
+    left: 34%;
+    position: absolute;
+    background-color:#957651;
+}
+
+
+
+
+.botão {
+  text-align: right;
+}
+
+
+
+
+h2 {
+    text-align: center;
+}
+
+
+
+
+body {
+    background-color:#70593fff
+    ;
+    color: rgb(72, 58, 41)
+}
+
+
+input {
+    border: 2px solid #70593fff;
+    box-shadow: inset 0px 4px 4px rgb(216, 205, 189);
+    border-radius: 5px;
+    background-color: antiquewhite;
+}
+
+.cadastro{
+    color: #ffffff;
+
+}

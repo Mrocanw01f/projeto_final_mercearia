@@ -1,0 +1,57 @@
+body{
+    background-color: #b68b56;
+}
+
+
+h1, form {
+    font-family: Inknut Antiqua; font-size: 30px;
+    text-align: center;
+}
+
+
+fieldset{
+   
+    left: 50%;
+    border-color: #a48259;
+    background-color:#a48259;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+      }
+
+
+
+
+input {
+    border: 2px solid #70593fff;
+    box-shadow: inset 0px 4px 4px rgb(216, 205, 189);
+    border-radius: 5px;
+    background-color: antiquewhite;
+}
+
+
+label{
+    font-family: Inknut Antiqua; font-size: 18px;
+
+
+
+
+}
+
+
+figure{
+    text-align: right;
+    height: 0px;
+    left: 4px;
+
+
+
+
+}
+
+textarea{
+    background-color: #b68b56;
+}
