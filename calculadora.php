@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mercearia do João</title>
-    <link rel="stylesheet" href="css\bootstrap.min.css">
+    <!-- <link rel="stylesheet" href="css\bootstrap.min.css"> -->
     <link href="calculadora.css" rel="stylesheet">
     <link rel="icon" href="img/logo1.png">
     
@@ -18,7 +18,7 @@
     <div class="btn-group btn-group-sm" role="group" aria-label="..."><a href="sobre.php"><id>Sobre nós</id></a></div>
     <br>
     <br>
-    
+    <figure><img src="img/calculadora.png" alt="calculos" width="150" height="150"></figure>
     <br>
     <br>
     <input class="fatores" type="number" name="num1" placeholder="n° 1" cols="50" required>
