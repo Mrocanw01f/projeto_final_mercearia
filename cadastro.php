@@ -11,7 +11,7 @@
      <img src="img/logo1.png" alt= "Design" tittle="Design" height="100">
   <figure>
     <fieldset>
-    <form action="" method="post">
+    <form action="calculadora.php" method="post">
         <label for="nome">Nome:</label>
         <br>
         <input type="text" id="nome" name="nome" required><br>
@@ -36,8 +36,7 @@
         echo "nome: ".$nome;
         echo "                               email: ".$email;
         echo "                               senha: ".$senha;
-        header("Location: calculadora.php");
-        echo "Acesso concedido!";
+        
     }
     ?>
     </textarea>
